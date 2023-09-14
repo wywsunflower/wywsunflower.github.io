@@ -9,9 +9,12 @@ Lastest Update: 15th Sep 2023&nbsp;
 
 ## Journal Paper
 
-## Conference Paper
-- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE.pdf"><img src="/images/pdf.png" width="20" height="20"></a>
 
+- A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology. <a href="https://hcfun.github.io//file/2.2022.1STE-BMCBIO.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu<br>BMC bioinformatics, 2020.
+
+
+## Conference Paper
+- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE-BIBM.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu<br>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020.
 
 ## Co-authored Paper
 
