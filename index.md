@@ -6,7 +6,7 @@ layout: page
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Haichuan Fang (方海川)**.
+Here is **Haichuan Fang 方海川**.
 <!-- 
 I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)]. -->
 I am a  Ph.d. candidate majoring in Software Engineering at School of Computer and Artificial Intelligence, Zhengzhou University. My main research area is Knowledge Representation Learning (KRL), including static KRL, temporal KRL, and multi-modal KRL. I have published and co-authored some research papers in several top journals and conferences.
