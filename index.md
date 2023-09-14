@@ -9,19 +9,19 @@ layout: page
 Here is **Haichuan Fang 方海川**.
 <!-- 
 I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)]. -->
-I am a  Ph.d. candidate majoring in Software Engineering at School of Computer and Artificial Intelligence, Zhengzhou University. My main research area is Knowledge Representation Learning (KRL), including static KRL, temporal KRL, and multi-modal KRL. I have published and co-authored some research papers in several top journals and conferences.
+I am a  Ph.D. candidate majoring in Software Engineering at School of Computer and Artificial Intelligence, Zhengzhou University. My main research area is Knowledge Representation Learning (KRL), including static KRL, temporal KRL, and multi-modal KRL. I have published and co-authored some research papers in several top journals and conferences.
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2019 - :** Zhengzhou University (Ph.D. candidate)
+- **Sep 2019 - June 2022:** Zhengzhou University (MSc)
+- **Sep 2015 - June 2019:** Dalian Ocean University (BSc)
 
+<!-- - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! -->
 <br>
 
 ---
