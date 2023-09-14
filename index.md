@@ -34,8 +34,8 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 - Graph Representation Learning
 - Data Mining
 - Deep Learning
+<p align="justify">My current research focuses on practical problems brought about by the era of big data. Knowledge graph, as an important form of the existence of a large number of data, its representation learning can play an important role in quite a number of practical applications, including Question Answering, Intelligent Search, Recommender System, and so on. I wish to devote my talent to this meaningful issue and bring well-being to society.</p>
 
-My current research focuses on practical problems brought about by the era of big data. Knowledge graph, as an important form of the existence of a large number of data, its representation learning can play an important role in quite a number of practical applications, including Question Answering, Intelligent Search, Recommender System, and so on. I wish to devote my talent to this meaningful issue and bring well-being to society.
 
 <br>
 
