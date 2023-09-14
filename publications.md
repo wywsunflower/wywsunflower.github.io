@@ -7,15 +7,17 @@ title: Publications
 Lastest Update: 15th Sep 2023&nbsp;  
 <!-- [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
 
+
+<!-- ![](http://latex.codecogs.com/svg.latex?^{\bullet}) -->
 ## Journal Paper
-- Learning knowledge graph embedding with a dual-attention embedding network. <a href="https://hcfun.github.io//file/5.2022.9DAEN-ESWA.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/D-AEN"><img src="/images/code.png" width="20" height="20"></a><br>**Haichuan Fang**, Youwei Wang, Zhen Tian^\ast^, Yangdong Ye^\ast^<br>Expert Systems with Applications, 2022.
+- Learning knowledge graph embedding with a dual-attention embedding network. <a href="https://hcfun.github.io//file/5.2022.9DAEN-ESWA.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/D-AEN"><img src="/images/code.png" width="20" height="20"></a><br>**Haichuan Fang**, Youwei Wang, Zhen Tian![](http://latex.codecogs.com/svg.latex?^{\ast}), Yangdong Ye![](http://latex.codecogs.com/svg.latex?^{\ast})<br>Expert Systems with Applications, 2022.
 
-- GOGCN: Graph Convolutional Network on Gene Ontology for functional similarity analysis of genes. <a href="https://hcfun.github.io//file/3.2022.6GOGCN-TCBB.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/GOGCN"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian^\bullet^, **Haichuan Fang**^\bullet^, Zhixia Teng, Yangdong Ye ^\ast^<br>IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
+- GOGCN: Graph Convolutional Network on Gene Ontology for functional similarity analysis of genes. <a href="https://hcfun.github.io//file/3.2022.6GOGCN-TCBB.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/GOGCN"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian![](http://latex.codecogs.com/svg.latex?^{\bullet}), **Haichuan Fang**![](http://latex.codecogs.com/svg.latex?^{\bullet}), Zhixia Teng, Yangdong Ye![](http://latex.codecogs.com/svg.latex?^{\ast})<br>IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
 
-- A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology. <a href="https://hcfun.github.io//file/2.2022.1STE-BMCBIO.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu^\ast^<br>BMC bioinformatics, 2022.
+- A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology. <a href="https://hcfun.github.io//file/2.2022.1STE-BMCBIO.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu![](http://latex.codecogs.com/svg.latex?^{\ast})<br>BMC bioinformatics, 2022.
 
 ## Conference Paper
-- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE-BIBM.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu^\ast^<br>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020.
+- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE-BIBM.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu![](http://latex.codecogs.com/svg.latex?^{\ast})<br>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020.
 
 ## Co-authored Paper
 
