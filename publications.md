@@ -10,7 +10,8 @@ Lastest Update: 15th Sep 2023&nbsp;
 ## Journal Paper
 
 ## Conference Paper
-- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity <p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>
+- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity <a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i></a>
+- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity <a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-pdf"></i></a>
 ## Co-authored Paper
 
 - [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
