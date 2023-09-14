@@ -10,7 +10,7 @@ Lastest Update: 15th Sep 2023&nbsp;
 ## Journal Paper
 
 ## Conference Paper
-- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="//files/1.2020.11SWE.pdf"><img src="/images/pdf.png"></a>
+- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE.pdf"><img src="/images/pdf.png" width="20" height="20"></a>
 
 
 ## Co-authored Paper
