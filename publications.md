@@ -9,12 +9,12 @@ Lastest Update: 15th Sep 2023&nbsp;
 
 ## Journal Paper
 
+- GOGCN: Graph Convolutional Network on Gene Ontology for functional similarity analysis of genes. <a href="https://hcfun.github.io//file/3.2022.6GOGCN-TCBB.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/GOGCN"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian^\bullet^, **Haichuan Fang**^\bullet^, Zhixia Teng, Yangdong Ye ^\ast^<br>BMC bioinformatics, 2020.
 
-- A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology. <a href="https://hcfun.github.io//file/2.2022.1STE-BMCBIO.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu<br>BMC bioinformatics, 2020.
-
+- A novel gene functional similarity calculation model by utilizing the specificity of terms and relationships in gene ontology. <a href="https://hcfun.github.io//file/2.2022.1STE-BMCBIO.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu^\ast^<br>BMC bioinformatics, 2020.
 
 ## Conference Paper
-- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE-BIBM.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu<br>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020.
+- SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE-BIBM.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu^\ast^<br>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020.
 
 ## Co-authored Paper
 
