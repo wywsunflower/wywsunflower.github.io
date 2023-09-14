@@ -8,6 +8,7 @@ Lastest Update: 15th Sep 2023&nbsp;
 <!-- [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
 
 ## Journal Paper
+- Learning knowledge graph embedding with a dual-attention embedding network. <a href="https://hcfun.github.io//file/5.2022.9DAEN-ESWA.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/D-AEN"><img src="/images/code.png" width="20" height="20"></a><br>**Haichuan Fang**, Youwei Wang, Zhen Tian^\ast^, Yangdong Ye^\ast^<br>Expert Systems with Applications, 2022.
 
 - GOGCN: Graph Convolutional Network on Gene Ontology for functional similarity analysis of genes. <a href="https://hcfun.github.io//file/3.2022.6GOGCN-TCBB.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/GOGCN"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian^\bullet^, **Haichuan Fang**^\bullet^, Zhixia Teng, Yangdong Ye ^\ast^<br>IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
 
