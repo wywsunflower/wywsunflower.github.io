@@ -41,9 +41,9 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted by ICAROB 2023, see you in Japan!
-- **Nov 2020：**One paper accepted by IEEE BIBM 2020.
+- **Dec 2022：**One co-authored paper accepted by Briefings in Bioinformatics (BIB).
+- **Sep 2022：**One paper accepted by Expert Systems with Applications (ESWA).
+- **Sep 2022：**One co-authored paper accepted by Briefings in Bioinformatics (BIB).
+- **Jun 2022：**One paper accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB).
+- **Jan 2022：**One paper accepted by BMC Bioinformatics.
+- **Nov 2020：**One paper accepted by International Conference on Bioinformatics and Biomedicine (BIBM).
