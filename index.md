@@ -29,11 +29,12 @@ I am a  Ph.D. candidate majoring in Software Engineering at School of Computer a
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Knowledge Representation Learning
+- Graph Representation Learning
+- Data Mining
+- Deep Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems brought about by the era of big data. Knowledge graph, as an important form of the existence of a large number of data, its representation learning can play an important role in quite a number of practical applications, including Question Answering, Intelligent Search, Recommender System, and so on. I wish to devote my talent to this meaningful issue and bring well-being to society.
 
 <br>
 
