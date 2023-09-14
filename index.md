@@ -18,8 +18,8 @@ I am a  Ph.D. candidate majoring in Software Engineering at School of Computer a
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2019 - :** Zhengzhou University (Ph.D. candidate)
-- **Sep 2019 - June 2022:** Zhengzhou University (MSc)
+- **Sep 2019 - :** Zhengzhou University (Ph.D. candidate), supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/)
+- **Sep 2019 - June 2022:** Zhengzhou University (MSc), supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) and [Prof. Zhen Tian](https://lovehades001.github.io/)
 - **Sep 2015 - June 2019:** Dalian Ocean University (BSc)
 
 <!-- - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! -->
