@@ -28,4 +28,4 @@ Lastest Update: 15th Sep 2023.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\d
 ---
 
 ## Master's Thesis
-- 图卷积网络的知识表示学习研究 <a href="https://hcfun.github.io//file/Master_thesis.pdf"><img src="/images/pdf.png" width="20" height="20"></a> <br>Research on Knowledge Representation Learning based on Graph Convolutional Networks<br>**Haichuan Fang** (Supervisor:[Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) and [Prof. Zhen Tian](https://lovehades001.github.io/))
+- 图卷积网络的知识表示学习研究 <a href="https://hcfun.github.io//file/Master_thesis.pdf"><img src="/images/pdf.png" width="20" height="20"></a> <br>Research on Knowledge Representation Learning based on Graph Convolutional Networks<br>**Haichuan Fang** (Supervisor: [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) and [Prof. Zhen Tian](https://lovehades001.github.io/))
