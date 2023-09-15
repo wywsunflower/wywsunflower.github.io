@@ -12,7 +12,7 @@ layout: page
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2019 - :** Zhengzhou University (Ph.D. candidate), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/)
+- **Sep 2019 - :** Zhengzhou University (Ph.D. Candidate), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/)
 - **Sep 2019 - June 2022:** Zhengzhou University (MSc), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) and [Prof. Zhen Tian](https://lovehades001.github.io/)
 - **Sep 2015 - June 2019:** Dalian Ocean University (BSc), Computer Science and Technology
 
