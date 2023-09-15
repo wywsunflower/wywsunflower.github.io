@@ -20,10 +20,9 @@ Lastest Update: 15th Sep 2023.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\d
 - SWE: a novel method with semantic-weighted edge for measuring gene functional similarity. <a href="https://hcfun.github.io//file/1.2020.11SWE-BIBM.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/SWE"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, **Haichuan Fang**, Yangdong Ye, Zhenfeng Zhu![](http://latex.codecogs.com/svg.latex?\ast)<br>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020.
 
 ## Co-authored Paper
+- Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy. <a href="https://hcfun.github.io//file/6.2022.12SCSMDA-BIB.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/Yue-Yuu/SCSMDA-master"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, Yue Yu, **Haichuan Fang**, Weixin Xie, Maozu Guo![](http://latex.codecogs.com/svg.latex?\ast)<br>Briefings in Bioinformatics, 2022.
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://ieeexplore.ieee.org/abstract/document/10037387)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- MHADTI: predicting drug–target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms. <a href="https://hcfun.github.io//file/4.2022.9MHADTI-BIB.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/pxystudy/MHADTI"><img src="/images/code.png" width="20" height="20"></a><br>Zhen Tian, Xiangyu Peng, **Haichuan Fang**, Wenjie Zhang, Qiguo Dai, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Briefings in Bioinformatics, 2022.
 
 ## Working Manuscript
 
