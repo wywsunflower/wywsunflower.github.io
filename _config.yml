@@ -16,6 +16,7 @@ owner:
   github: hcfun
   # linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=mR_6xe4AAAAJ
+  dblp: https://dblp.org/pid/283/3703.html
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -35,7 +36,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/方海川简历.pdf
   - title: Publications
     url: /publications/
   # - title: Awards
