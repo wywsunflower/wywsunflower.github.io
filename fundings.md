@@ -5,6 +5,11 @@ title: Fundings
 ---
 
 ## Fundings
+### 国家自然科学基金
+- 知识图谱增强的跨视角分层图对比学习药靶互作关系预测研究 (62371423)<br>2024-2027, 参与
+- 图传播IB方法的模型及传播机制研究 (62176239)<br>2022-2025, 参与
+- 基于多元数据融合的药物重定位方法研究 (61801432)<br>2019-2021, 参与
+- 传播IB方法的研究 (61772475)<br>2018-2021, 参与
 
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+### 国家重点研发计划“先进轨道交通”重点专项
+- 高速铁路成网条件下铁路综合效能与服务水平提升技术 (2018YFB1201403)<br>2018-2020, 参与
