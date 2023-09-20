@@ -12,9 +12,9 @@ layout: page
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2019 - :** Zhengzhou University (Ph.D. Candidate), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/)
-- **Sep 2019 - June 2022:** Zhengzhou University (MSc), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) and [Prof. Zhen Tian](https://lovehades001.github.io/)
-- **Sep 2015 - June 2019:** Dalian Ocean University (BSc), Computer Science and Technology
+- **Sep 2022 - :** Zhengzhou University (Ph.D. Candidate), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/)
+- **Sep 2019 - Jun 2022:** Zhengzhou University (MSc), Software Engineering, supervised py [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) and [Prof. Zhen Tian](https://lovehades001.github.io/)
+- **Sep 2015 - Jun 2019:** Dalian Ocean University (BSc), Computer Science and Technology
 
 <!-- - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! -->
 <br>
@@ -28,7 +28,7 @@ layout: page
 - Data Mining
 - Bioinformatics
 - Deep Learning
-<p align="justify">My current research focuses on practical problems brought about by the era of big data. Knowledge graph, as an important form of the existence of a large number of data, its representation learning can play an important role in quite a number of practical applications, including Question Answering, Intelligent Search, Recommender System, and so on. I wish to devote my talent to this meaningful issue and bring well-being to society.</p>
+<p align="justify">My current research focuses on practical problems brought about by the era of big data. Knowledge graph, as an important form of the existence of a large number of data, its representation learning can play an important role in quite a number of practical applications, including Question Answering, Intelligent Search, Bioinformatics, Recommender System, and so on. I wish to devote my talent to this meaningful issue and bring well-being to society.</p>
 <br>
 
 ---
