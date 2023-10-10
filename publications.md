@@ -10,9 +10,13 @@ Lastest Update: 7th Oct 2023.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\da
 
 <!-- ![](http://latex.codecogs.com/svg.latex?^{\bullet}) -->
 ## Journal Paper
+<<<<<<< Updated upstream
 - Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323002480?dgcid=coauthor"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/SWT-AITeam/DREAM"><img src="/images/code.png" width="20" height="20"></a><br>**Youwei Wang**, Ying Wang, Zhongchuan Sun, Yinghao Li, Shizhe Hu, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Processing and Management, 2023. (中科院1 区 SCI, CCF B, IF: 8.6)
+=======
+- Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323002480?dgcid=coauthor"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/SWT-AITeam/DREAM"><img src="/images/code.png" width="20" height="20"></a><br>**Youwei Wang**, Ying Wang, Zhongchuan Sun, Yinghao Li, Shizhe Hu, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Processing and Management, 2023.(中科院1区 SCI，CCF B, IF: 8.6)
+>>>>>>> Stashed changes
 
-- A Domain Semantics-Enhanced Relation extraction Model for Identifying the Railway Safety Risk. <a href="https://link.springer.com/article/10.1007/s40747-023-01075-7"><img src="/images/pdf.png" width="20" height="20"></a><br> **Youwei Wang**, Chegnying Zhu, Qiang Guo, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Complex and Intelligent Systems, 2023.
+- A Domain Semantics-Enhanced Relation extraction Model for Identifying the Railway Safety Risk. <a href="https://link.springer.com/article/10.1007/s40747-023-01075-7"><img src="/images/pdf.png" width="20" height="20"></a><br> **Youwei Wang**, Chegnying Zhu, Qiang Guo, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Complex and Intelligent Systems, 2023. (中科院1区 SCI，IF: 6.7)
 
 
 
@@ -22,10 +26,10 @@ Lastest Update: 7th Oct 2023.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\da
 
 
 ## Co-authored Paper
-- Learning knowledge graph embedding with a dual-attention embedding network. <a href="https://hcfun.github.io//file/5.2022.9DAEN-ESWA.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/D-AEN"><img src="/images/code.png" width="20" height="20"></a><br>Haichuan Fang,**Youwei Wang**, Zhen Tian, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Expert Systems with Applications, 2022.
+- Learning knowledge graph embedding with a dual-attention embedding network. <a href="https://hcfun.github.io//file/5.2022.9DAEN-ESWA.pdf"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/hcfun/D-AEN"><img src="/images/code.png" width="20" height="20"></a><br>Haichuan Fang,**Youwei Wang**, Zhen Tian, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Expert Systems with Applications, 2022. (中科院1区 SCI，IF: 8.5)
 
 
-- Sequential Graph Collaborative Filtering. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522001049"><img src="/images/pdf.png" width="20" height="20"></a><br>Zhongchuan Sun, Bin Wu,**Youwei Wang**, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Sciences, 2022.
+- Sequential Graph Collaborative Filtering. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522001049"><img src="/images/pdf.png" width="20" height="20"></a><br>Zhongchuan Sun, Bin Wu,**Youwei Wang**, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Sciences, 2022. (中科院1区 SCI，CCF B, IF: 8.1)
 
 <br>
 
