@@ -10,7 +10,7 @@ Lastest Update: 7th Oct 2023.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\da
 
 <!-- ![](http://latex.codecogs.com/svg.latex?^{\bullet}) -->
 ## Journal Paper
-- Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323002480?dgcid=coauthor"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/SWT-AITeam/DREAM"><img src="/images/code.png" width="20" height="20"></a><br>**Youwei Wang**, Ying Wang, Zhongchuan Sun, Yinghao Li, Shizhe Hu, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Processing and Management, 2023.
+- Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323002480?dgcid=coauthor"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/SWT-AITeam/DREAM"><img src="/images/code.png" width="20" height="20"></a><br>**Youwei Wang**, Ying Wang, Zhongchuan Sun, Yinghao Li, Shizhe Hu, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Information Processing and Management, 2023. (中科院1 区 SCI, CCF B, IF: 8.6)
 
 - A Domain Semantics-Enhanced Relation extraction Model for Identifying the Railway Safety Risk. <a href="https://link.springer.com/article/10.1007/s40747-023-01075-7"><img src="/images/pdf.png" width="20" height="20"></a><br> **Youwei Wang**, Chegnying Zhu, Qiang Guo, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Complex and Intelligent Systems, 2023.
 
