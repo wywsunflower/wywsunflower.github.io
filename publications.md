@@ -10,6 +10,9 @@ Lastest Update: 7th Oct 2023.&nbsp;  ![](http://latex.codecogs.com/svg.latex?\da
 
 <!-- ![](http://latex.codecogs.com/svg.latex?^{\bullet}) -->
 ## Journal Paper
+
+- Self-balanced Information Bottleneck for Few-shot Multimodal Information Extraction. Accepted.<br>**Youwei Wang**, Kai Chen, Qiwei Miao, Chengming Liu, Yinghao Li![](http://latex.codecogs.com/svg.latex?\ast)<br><br>Information Processing and Management, 2026.(中科院1区 SCI，CCF B, IF: 8.6)
+
 - Span-aware pre-trained network with deep information bottleneck for scientific entity relation extraction. <a href="https://www.sciencedirect.com/science/article/pii/S0893608025001297"><img src="/images/pdf.png" width="20" height="20"></a><a href="https://github.com/SWT-AITeam/SpIB"><img src="/images/code.png" width="20" height="20"></a><br>**Youwei Wang**, Peicong Cao, Haichuan Fang, Yangdong Ye![](http://latex.codecogs.com/svg.latex?\ast)<br>Neural Networks, 2025. (中科院1区 SCI，CCF B, IF: 6.3)
 
 
