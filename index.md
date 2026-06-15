@@ -34,6 +34,13 @@ layout: page
 
 ## News and Updates
 
+- **Jun 2026：**One paper accepted by Information Processing and Management (IPM).
+- **May 2026：**One paper accepted by IJCAI. 
+- **Feb 2026：**One co-authored paper accepted by IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS (IEEE TSMC)
+- **Dec 2025：**One co-authored paper accepted by Engineering Applications of Artificial Intelligence (EAAI)
+- **Jul 2025：**One co-authored paper accepted by ACM MM.
+- **Jan 2025：**One paper accepted by Neural Networks (NN).
+- **Dec 2023：**One paper accepted by Expert Systems with Applications (ESWA).
 - **Sep 2023：**One paper accepted by Information Processing and Management (IPM).
 - **May 2023：**One paper accepted by Complex and Intelligent Systems.
 - **Sep 2022：**One co-authored paper accepted by Expert Systems with Applications (ESWA).
