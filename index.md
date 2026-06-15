@@ -36,7 +36,7 @@ layout: page
 
 - **Jun 2026：**One paper accepted by Information Processing and Management (IPM).
 - **May 2026：**One paper accepted by IJCAI. 
-- **Feb 2026：**One co-authored paper accepted by IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS (IEEE TSMC)
+- **Feb 2026：**One co-authored paper accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMC)
 - **Dec 2025：**One co-authored paper accepted by Engineering Applications of Artificial Intelligence (EAAI)
 - **Jul 2025：**One co-authored paper accepted by ACM MM.
 - **Jan 2025：**One paper accepted by Neural Networks (NN).
